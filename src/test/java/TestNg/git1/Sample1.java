@@ -7,8 +7,17 @@ public class Sample1 {
 	@Test
 	public void s1() {
 		System.out.println("s1");
+
 		
 		System.out.println("line by pranesh nov15");
+
+
+		
+		System.out.println("s3");
+
+		System.out.println("Line added by Akshay");
+
+
 	}
 	
 }
